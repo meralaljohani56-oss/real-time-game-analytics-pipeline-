@@ -1,10 +1,10 @@
-# 🎮 Real-Time Interactive Analytics & Statistical Process Control (SPC) Pipeline
+# Real-Time Interactive Analytics & Statistical Process Control (SPC) Pipeline
 
 An end-to-end telemetry and monitoring system capturing live user performance from an interactive exhibition station into a cloud data pipeline, streaming live operational metrics into a Power BI dashboard equipped with **Statistical Process Control (SPC)** charts (X-bar & MR Charts).
 
 ---
 
-## 📸 Project Showcase & Deployment
+## Project Showcase & Deployment
 
 | 1. Physical Booth & Console Setup | 2. Live Game & ngrok Leaderboard |
 | :---: | :---: |
@@ -17,7 +17,7 @@ An end-to-end telemetry and monitoring system capturing live user performance fr
 
 ---
 
-## 🚀 System Architecture
+## System Architecture
 
 ```mermaid
 graph TD
@@ -26,7 +26,7 @@ graph TD
     C -->|Continuous Service Sync| D[ Power BI Operational & SPC Dashboard ]
 ```
 
-## 📂 Repository Structure
+##  Repository Structure
 ```text
 ├── src/
 │   ├── app.py                 # Game logic & event listeners
