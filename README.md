@@ -8,11 +8,11 @@ An end-to-end telemetry and monitoring system capturing live user performance fr
 
 | 1. Physical Booth & Console Setup | 2. Live Game & ngrok Leaderboard |
 | :---: | :---: |
-| ![Booth Setup](images/booth_setup.jpg) | ![Game Interface](images/game_interface.png) |
+| ![Booth Setup](IMG_4966.jpeg) | ![Game Interface](IMG_4964.jpeg) |
 | *Custom interactive booth with game station & live laptop monitor* | *Web game deployed via ngrok reverse tunnel with cloud Excel sync* |
 
 ### 3. Real-Time SPC Quality Control Dashboard
-![Power BI Statistical Quality Control Dashboard](images/dashboard_spc.png)
+![Power BI Statistical Quality Control Dashboard](IMG_4965.jpeg)
 *Live Power BI dashboard computing dynamic Upper/Lower Control Limits ($\bar{X}$ and Moving Range charts) alongside user engagement KPIs.*
 
 ---
